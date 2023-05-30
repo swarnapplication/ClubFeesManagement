@@ -34,7 +34,7 @@ import com.clubmember.fees.util.MemberFeesUtil;
 @RequestMapping("/club/memberfees")
 public class ClubmemberFeesController {
 
-	//This is ClubMemberFeesController
+	
 	
 	@Autowired
 	private MemberFeesService memberFeesService;
